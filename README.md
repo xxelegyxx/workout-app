@@ -11,4 +11,3 @@ This application uses Express, MongoDB, and Charts.js to allow users to track an
 
 # :ticket: License
 [MIT](https://choosealicense.com/licenses/mit/)
-![SCREENSHOT](https://github.com/xxelegyxx/workout-app/blob/main/Screenshot%20(66).png)
