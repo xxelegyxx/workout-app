@@ -12,5 +12,8 @@ To run locally, the user should fork this repo and set up a database called "wor
 * User can add new workouts or view previous workouts by navigating the UI
 * User can label workouts and choose reps, sets, weight used, and rest time!
 
-# :ticket: License
+# :ticket: License:
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Demo Video:
+https://drive.google.com/file/d/112GVkhTPbroPfim1KBx588OZK5_0O6HO/view?usp=sharing
