@@ -16,4 +16,4 @@ To run locally, the user should fork this repo and set up a database called "wor
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Demo Video:
-https://drive.google.com/file/d/112GVkhTPbroPfim1KBx588OZK5_0O6HO/view?usp=sharing
+https://drive.google.com/file/d/1cPeS1KJ3Y42SfQgJDOpxxGPXoorhoFNR/view?usp=sharing
